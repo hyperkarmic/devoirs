@@ -1,0 +1,78 @@
+/* Additional CSS settings for Portfolio pages */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+p {color: white;}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: red;
+}
+
+img{
+    border-radius: .6em;
+}
+
+.container{
+    background-color: #010101;
+}
+
+
+
+.portfolio {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.card {
+    background-color: black;
+    color: white;
+}
+
+.card-body a{
+    text-decoration: none;
+    color: aqua;
+}
+
+.card-body a:hover{
+    color: aqua;
+    text-decoration: none;
+}
+
+.card h5:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.card__shadow{
+    border: none;
+    box-shadow: 0 4px 8px 0 black;
+}
+
+.card__shadow:hover {
+    box-shadow: 0 8px 16px 0 black;
+  }
+
+.card__shadow-nohover{
+    border: none;
+    box-shadow: 0 4px 8px 0 black;
+}
+
+label {
+    color: red;
+}
+
+footer{
+    background-color: #010101;
+    color: purple;
+}
+

@@ -10,4 +10,8 @@ https://getbootstrap.com/docs/4.0/examples/sticky-footer/
 
 4)About me completed.  Text/image added  within responsive containers.  Further work needed to make it flow correctly.  About me text box added
 
-5)Portfolio created using cards within a responsive container
+5)Portfolio created using "cards" within a responsive container
+
+6)Style sheet added.  Form element put within responsive container
+
+7)Jumbotron added to contacts with details of twitter/personal website/git hub
