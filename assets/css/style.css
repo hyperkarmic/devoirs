@@ -40,11 +40,11 @@ img{
 
 .card-body a{
     text-decoration: none;
-    color: aqua;
+    color: black;
 }
 
 .card-body a:hover{
-    color: aqua;
+    color: black;
     text-decoration: none;
 }
 

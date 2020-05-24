@@ -15,3 +15,5 @@ https://getbootstrap.com/docs/4.0/examples/sticky-footer/
 6)Style sheet added.  Form element put within responsive container
 
 7)Jumbotron added to contacts with details of twitter/personal website/git hub
+
+8)Phone number/e-mail added.  Link to Resume added.  Personal statement re-worded.  Project and two homework added, with screenshots, deployed links and repository links.
